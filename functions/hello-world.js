@@ -1,6 +1,6 @@
 exports.handler = function(context, event, callback) {
     const result = {
-        message : "Hello World test1!"
+        message : "Hello World testr!"
     }
 
     callback(null, result);
